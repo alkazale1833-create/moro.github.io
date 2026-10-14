@@ -1,4 +1,4 @@
-# OMAR CENTER — عمر سنتر
+#moro
 
 Self-contained static PS4 host. Upload the contents of this directory to the root
 of omarcenter/omarcenter.github.io (main branch). Pages: main / root.
